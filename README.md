@@ -9,13 +9,19 @@
 Frontend: React,  CSS
 <br><br>
 📌 Installation<br>
-⦿Clone the repository:<br>
-git clone https://github.com/Darshan-008/Website.git<br>
-cd bookstore-frontend<br><br>
-⦿Install dependencies:<br>
-npm install<br><br>
-⦿Start the development server:<br>
-npm start<br><br>
+⦿Clone the repository:
+```sh
+git clone https://github.com/Darshan-008/Website.git
+cd bookstore-frontend
+```
+⦿Install dependencies:
+```sh
+npm install
+```
+⦿Start the development server:
+```sh
+npm start
+```
 📄 License<br>
 This project is open-source under the MIT License.</p>
 
