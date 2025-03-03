@@ -10,7 +10,7 @@ Frontend: React,  CSS
 <br><br>
 📌 Installation<br>
 ⦿Clone the repository:<br>
-git clone https://github.com/your-username/bookstore-frontend.git<br>
+git clone https://github.com/Darshan-008/Website.git<br>
 cd bookstore-frontend<br><br>
 ⦿Install dependencies:<br>
 npm install<br><br>
