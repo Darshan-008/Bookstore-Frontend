@@ -19,6 +19,13 @@ npm start<br><br>
 📄 License<br>
 This project is open-source under the MIT License.</p>
 
-<p>
+# Images
+<img src="s1.png" alt="image" hight='200' width='400'>
+<img align='right' src="s2.png" alt="image" hight='200' width='400'><br><br>
+<br><br>
 
-</p>
+
+
+
+#Demo<br>
+<a href="https://gdbookstore.netlify.app/">Click here</a>
